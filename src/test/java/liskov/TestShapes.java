@@ -1,3 +1,5 @@
+package liskov;
+
 import liskov.Rectangle;
 import liskov.Square;
 import liskov.Triangle;
